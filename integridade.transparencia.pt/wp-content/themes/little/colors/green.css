@@ -1,0 +1,39 @@
+a:hover,
+#primary-nav .nav li a:hover,
+#primary-nav .nav li.sfHover a,
+#primary-nav .current_page_item a,
+.header-social-icons a:hover,
+.slide-caption a:hover,
+.format-link .link-source a:hover {
+	color: #87B446;
+}
+
+#primary-nav .nav li li a:hover,
+#primary-nav .current_page_item a,
+.entry-title a:hover {
+	color: #87B446 !important;
+}
+
+.highlight,
+.jp-play-bar,
+.jp-volume-bar-value,
+.junkie-pagination .current,
+.junkie-pagination a:hover,
+button, 
+.btn, 
+.form-submit input,
+.contact-form #submit,
+#commentform .form-submit #submit,
+button.light:hover, 
+.btn.light:hover {
+	background: #87B446;
+}
+
+
+.junkie-direction-nav a:hover,
+.jp-play:hover,
+.jp-pause:hover,
+.jp-mute:hover,
+.jp-unmute:hover {
+	background-color: #87B446;
+}

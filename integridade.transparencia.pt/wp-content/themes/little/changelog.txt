@@ -1,0 +1,13 @@
+*** Little Changelog ***
+
+2013.06.07 - version 1.0.3
+ * header.php - Fixed Search Icon on WP Custom Menu
+ 
+2013.06.01 - version 1.0.2
+ * header.php - Added HTML5 support for old IE browsers
+ 
+2013.05.20 - version 1.0.1
+ * content.php - Fixed the excerpt bug
+ 
+2013.05.12 - version 1.0
+ * First release!
